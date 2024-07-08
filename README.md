@@ -6,7 +6,7 @@ I built this because this functionality is not available using the Meshtastic CL
 # Installation
 * git clone https://github.com/brad28b/meshtastic-cli-receive-text.git
 * cd meshtastic-cli-receive-text
-* pip3 install requirements.txt
+* pip3 install -r requirements.txt
 
 # Usage
 * Firstly, edit read_messages.py and set the serial port for your device (usually /dev/ttyUSB0 or /dev/ttyACM0)

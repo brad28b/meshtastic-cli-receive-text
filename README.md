@@ -16,3 +16,6 @@ I built this because this functionality is not available using the Meshtastic CL
 * To exit, use Ctrl-C
 
 ![Screenshot 2024-07-08 115255](https://github.com/brad28b/meshtastic-cli-receive-text/assets/70585927/9df01ec8-a774-4f64-80d1-b040e9d57181)
+
+# TODO
+Add TCP Interface support. Should be easy.

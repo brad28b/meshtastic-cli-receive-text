@@ -18,3 +18,4 @@ I built this because this functionality is not available using the Meshtastic CL
 
 ![Screenshot 2024-07-08 115255](https://github.com/brad28b/meshtastic-cli-receive-text/assets/70585927/9df01ec8-a774-4f64-80d1-b040e9d57181)
 
+![Screenshot 2024-07-09 121111](https://github.com/brad28b/meshtastic-cli-receive-text/assets/70585927/53477472-c604-4112-b3b6-36f139f3a4d5)

@@ -16,6 +16,6 @@ I built this because this functionality is not available using the Meshtastic CL
 
 * To exit, use Ctrl-C
 
-![Screenshot 2024-07-08 115255](https://github.com/brad28b/meshtastic-cli-receive-text/assets/70585927/9df01ec8-a774-4f64-80d1-b040e9d57181)
+![Screenshot 2024-07-09 121441](https://github.com/brad28b/meshtastic-cli-receive-text/assets/70585927/1217ff9f-0b42-4c30-818f-5d96e3d2522e)
 
-![Screenshot 2024-07-09 121111](https://github.com/brad28b/meshtastic-cli-receive-text/assets/70585927/53477472-c604-4112-b3b6-36f139f3a4d5)
+![Screenshot 2024-07-09 121720](https://github.com/brad28b/meshtastic-cli-receive-text/assets/70585927/2b63295b-095d-42eb-8f9b-e48844c51055)

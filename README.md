@@ -9,7 +9,7 @@ I built this because this functionality is not available using the Meshtastic CL
 * pip3 install -r requirements.txt
 
 # Usage
-* Firstly, decide if you will be connecting to your node via serial or via TCP. If using serial, edit <b>'read_messages_serial.py'</b> and set the serial port for your Meshtastic node (usually /dev/ttyUSB0 or /dev/ttyACM0). If using TCP, edit <b>'read_messages_tcp.py'</b> and set the IP address of your Meshtastic node.
+* Firstly, decide if you will be connecting to your node via serial or via TCP. If using serial, edit <b>'read_messages_serial.py'</b> and set the serial port for your Meshtastic node (usually /dev/ttyUSB0 or /dev/ttyACM0 on Linux, or COM<u><i>x</i></u> on Windows). If using TCP, edit <b>'read_messages_tcp.py'</b> and set the IP address of your Meshtastic node.
 * Then to run the script:
 * For Serial: python read_messages_serial.py
 * For TCP: python read_messages_tcp.py

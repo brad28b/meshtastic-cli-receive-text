@@ -1,5 +1,5 @@
 # meshtastic-cli-receive-text
-A python command line script to receive messages from Meshtastic. Run the read_messages.py script, and it will connect to your radio (via either Serial or TCP) and display any text messages received by your node, on any channel, including private/direct messages.
+A python command line script to receive messages from Meshtastic. Run the read_messages_serial.py or read_messages_tcp.py script, and it will connect to your radio (via either Serial or TCP) and display any text messages received by your node, on any channel, including private/direct messages.
 
 I built this because this functionality is not available using the Meshtastic CLI (as of time of publishing).
 
